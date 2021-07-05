@@ -1,23 +1,30 @@
 /* Text colors */
 .text-light {
-   color: var(--Light-grayish-blue);
+   color: var(--light-grayish-blue);
 }
 .text-dark {
-   color: var(--Very-dark-grayish-blue);
+   color: var(--very-dark-grayish-blue);
 }
 
 /* Backgrounds */
 .bg-light {
-   background-color: var(--White);
+   background-color: var(--white);
+   color: var(--very-dark-grayish-blue);
 }
+
 .bg-dark-1 {
-   background-color: (--Very-dark-grayish-blue);
+   background-color: var(--very-dark-grayish-blue);
+   color: var(--white);
 }
+
 .bg-dark-2 {
-   background-color: var(--Very-dark-blackish-blue);
+   background-color: var(--very-dark-blackish-blue);
+   color: var(--white);
 }
+
 .bg-other {
-   background-color: var(--Moderate-violet);
+   background-color: var(--moderate-violet);
+   color: var(--white);
 }
 
 /* Opacity */
