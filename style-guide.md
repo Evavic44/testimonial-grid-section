@@ -19,9 +19,10 @@ White: hsl(0, 0%, 100%)
 ```
 
 ### Neutral
-
+```css
 Light gray: hsl(0, 0%, 81%)
 Light grayish blue: hsl(210, 46%, 95%)
+```
 
 Note for text colors:
 
