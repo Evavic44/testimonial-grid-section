@@ -1,0 +1,29 @@
+/* Text colors */
+.text-light {
+   color: var(--Light-grayish-blue);
+}
+.text-dark {
+   color: var(--Very-dark-grayish-blue);
+}
+
+/* Backgrounds */
+.bg-light {
+   background-color: var(--White);
+}
+.bg-dark-1 {
+   background-color: (--Very-dark-grayish-blue);
+}
+.bg-dark-2 {
+   background-color: var(--Very-dark-blackish-blue);
+}
+.bg-other {
+   background-color: var(--Moderate-violet);
+}
+
+/* Opacity */
+.opacity-1 {
+   opacity: 50%;
+}
+.opacity-2 {
+   opacity: 70%;
+}
