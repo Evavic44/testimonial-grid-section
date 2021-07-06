@@ -30,7 +30,7 @@ body {
    justify-content: center;
    height: 100vh;
    margin: 1rem auto;
-   max-width: 1000px;
+   max-width: 1100px;
    background-color: var(--light-grayish-blue);
 }
 
@@ -69,7 +69,7 @@ a:hover {
    display: flex;
    flex-direction: column;
    justify-content: space-around;
-   padding: 1rem 1.7rem; 
+   padding: 1.5rem 2rem; 
    border-radius: 10px;
 }
 
@@ -77,15 +77,15 @@ a:hover {
    grid-column: 1 / 3;
 }
 
-.card:first-child article {
+.card:first-child {
    position: relative;
 }
 
-.card:first-child article::before {
+.card:first-child::before {
    content: '';
    position: absolute;
-   top: -50px;
-   right: 100px;
+   top: 0;
+   right: 88px;
    width: 90px;
    height: 90px;
    background: url(../images/bg-pattern-quotation.svg) no-repeat center center/cover;
@@ -129,7 +129,7 @@ a:hover {
 }
 
 article h3 {
-   font-size: 1.1rem;
+   font-size: 1.29rem;
    padding: 1rem 0;
 }
 
@@ -137,4 +137,8 @@ article h3 {
 #attribution {
    display: flex;
    margin: 1rem 0;
+}
+
+#attribution p {
+   margin-right: 0.4rem;
 }
