@@ -30,6 +30,7 @@ body {
    justify-content: center;
    margin: 0 auto;
    height: 100vh;
+   margin: 10px 0;
    max-width: 1100px;
    background-color: var(--light-grayish-blue);
 }
