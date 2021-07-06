@@ -30,7 +30,6 @@ body {
    justify-content: center;
    height: 100vh;
    margin: 1rem auto;
-   /* max-width: var(--desktop-width); */
    max-width: 1000px;
    background-color: var(--light-grayish-blue);
 }
@@ -48,6 +47,15 @@ img {
    width: 30px;
 }
 
+a {
+   color: var(--moderate-violet);
+   transition: color 0.4s ease-in-out;
+}
+
+a:hover {
+   color: var(--very-dark-grayish-blue);
+}
+
 .container-grid {
    display: grid;
    grid-template-columns: repeat(4, 1fr);
@@ -61,7 +69,7 @@ img {
    display: flex;
    flex-direction: column;
    justify-content: space-around;
-   padding: 1rem 1.5rem; 
+   padding: 1rem 1.7rem; 
    border-radius: 10px;
 }
 
@@ -123,4 +131,10 @@ img {
 article h3 {
    font-size: 1.1rem;
    padding: 1rem 0;
+}
+
+/* Footer */
+#attribution {
+   display: flex;
+   margin: 1rem 0;
 }
