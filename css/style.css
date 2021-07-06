@@ -85,9 +85,9 @@ a:hover {
    content: '';
    position: absolute;
    top: 0;
-   right: 88px;
-   width: 90px;
-   height: 90px;
+   right: 80px;
+   width: 100px;
+   height: 100px;
    background: url(../images/bg-pattern-quotation.svg) no-repeat center center/cover;
    mix-blend-mode: lighten;
 }
@@ -128,8 +128,7 @@ a:hover {
    opacity: 50%;
 }
 
-article h3 {
-   font-size: 1.29rem;
+article h2 {
    padding: 1rem 0;
 }
 
