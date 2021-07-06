@@ -13,21 +13,20 @@ Users should be able to:
 
 ### Screenshot
 
-![My Solution](./screenshot.jpg)
+<img src="https://user-images.githubusercontent.com/62628408/124540547-84e2c400-de17-11eb-878e-2616c512e768.png" width="700px">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Live Site](https://testimonial-grid-evavic44.netlify.app)
 
 ## My process
 
 ### Built with
-
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- CSS Custom Properties
+- CSS Grid & Flexbox
+
 ### What I learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
